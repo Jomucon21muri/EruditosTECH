@@ -1,10 +1,57 @@
 # EruditosTECH
 Preparando a los eruditos tecnológicos del futuro, proyectos para todos 🤖🧩🕹️👾
 
-🤖Robótica
-🔌Electrónica
-🌐 Inteligencia artificial (IA)
+<details>
+  <summary> 🌐 Que te gustaría saber (Haz clic para expandir)</summary>
+
+  🤖Robótica
+
+  🔌Electrónica
+  
+  🌐 Inteligencia artificial (IA)
+
 💻 Programación
+
+⚙Inventos
+
+💻Diseño
+
+🔬 Ciencia
+
+🔋 Energía
+
+🌐 Internet de las cosas (IoT)
+
+🛠 Ingeniería
+
+📡 Telecomunicaciones
+
+🌍 Sistemas de navegación
+
+📱Dispositivos móviles
+
+🌆 Realidad virtual (VR)
+
+🎮 Realidad aumentada (AR)
+
+🌱 Internet de las cosas (IoT)
+
+🌐 Redes de computadoras
+
+🎧 Sonido y acústica
+
+🎥 Multimedia
+
+🖥 Computación en la nube
+
+⚡ Energías renovables
+
+📚 Educación en línea
+
+🌿 Sostenibilidad
+
+🏭 Automatización industrial
+</details>
 
 # Conceptos de Educación
 
