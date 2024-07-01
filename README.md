@@ -1,4 +1,4 @@
-# EruditosTECH
+# 3DUCA
 Preparando a los eruditos tecnológicos del futuro, proyectos para todos 🤖🧩🕹️👾
 
 <details>
